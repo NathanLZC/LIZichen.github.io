@@ -173,7 +173,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# Collections 不想显示的就把output的true改成false
 collections:
   teaching:
     output: true
