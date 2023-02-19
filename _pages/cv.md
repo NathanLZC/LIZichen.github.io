@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Materials Science and Engineering, Northeastern University, 2021
 * B.S. in Génie mécanique en aéronautique, Université Toulouse-III-Paul-Sabatier, 2022
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. in Computational Mechanics, École centrale de Nantes, 2024
 // * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
