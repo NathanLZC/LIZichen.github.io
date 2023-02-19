@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Materials Science and Engineering, Northeastern University, 2021
+* B.S. in Génie mécanique en aéronautique, Université Toulouse-III-Paul-Sabatier, 2022
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+// * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
